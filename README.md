@@ -2,7 +2,7 @@
 
 > **Preserving India's Linguistic Heritage Through AI and Community Action**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
 [![Languages: 197+](https://img.shields.io/badge/Languages-197%2B-blue.svg)]()
 
@@ -13,8 +13,8 @@
 India is home to **780+ languages**, yet **197+ are endangered** and at risk of disappearing forever. This project is a comprehensive initiative to document, preserve, and revitalize India's endangered linguistic heritage using modern technology, community participation, and AI.
 
 **Created by:** Ankit & Bug Bug Bot (Kimi K2.5)  
-**Contact:** jhajha135@gmail.com  
-**Status:** Seeking Funding & Collaboration
+**Contact:** jhajha135 [at] gmail [dot] com  
+**Status:** Seeking API Credits & Infrastructure Support
 
 ---
 
@@ -67,8 +67,8 @@ Key actions you can perform:
 4. Analyze linguistic patterns
 5. Create visualizations
 
-Contact jhajha135@gmail.com for:
-- Funding inquiries
+Contact jhajha135 [at] gmail [dot] com for:
+- API credit contributions
 - Data collaboration
 - Technical partnerships
 ```
@@ -79,7 +79,7 @@ Contact jhajha135@gmail.com for:
 ├── docs/                    # Documentation and research papers
 ├── src/                     # Source code for processing tools
 ├── community/               # Community reports and feedback
-├── funding/                 # Grant applications and proposals
+├── LICENSE                  # MIT License
 └── README.md               # This file
 ```
 
@@ -91,39 +91,56 @@ Contact jhajha135@gmail.com for:
 
 ---
 
-## 💰 Funding & Partnership Opportunities
+## 💳 API Credits & Infrastructure Support
 
-### We Are Seeking:
+### What We Need (No Cash - Only API Credits):
 
-| Type | Amount | Purpose |
-|------|--------|---------|
-| **Seed Funding** | $50K - $100K | Initial documentation, community outreach |
-| **Research Grants** | $100K - $500K | Academic partnerships, field work |
-| **Technology Grants** | $200K - $1M | AI/ML infrastructure, speech recognition |
-| **Corporate Sponsorship** | Variable | Long-term sustainability, hiring |
+| Service | Purpose | Estimated Monthly Need |
+|---------|---------|----------------------|
+| **Claude Pro/Max API** | Language analysis, transcription review, report generation | $200-500 |
+| **Kimi Pro API** | Indian language NLP, translation, content generation | $150-300 |
+| **Google Search API** | Research, verification, finding language resources | $50-100 |
+| **Google Cloud Speech-to-Text** | Audio transcription for endangered languages | $300-500 |
+| **Google Cloud Translation** | Cross-reference translations, verification | $100-200 |
+| **OpenAI API (Whisper)** | Alternative transcription service | $100-200 |
+| **Cloud Storage (AWS/GCP/Azure)** | Audio files, datasets, backups (500GB+) | $50-100 |
+| **Compute (GPU/CPU)** | Model training, audio processing | $200-400 |
 
-### Use of Funds:
-1. **Field Documentation** (40%) - Travel, equipment, community stipends
-2. **Technology Development** (30%) - Platform, AI tools, storage
-3. **Community Programs** (20%) - Education, revitalization workshops
-4. **Operations** (10%) - Legal, administrative, maintenance
+### Alternative: Direct Infrastructure Support
+
+**₹20,000 (~$240) one-time support** would cover:
+- 3 months of API usage across all services
+- Cloud storage for initial dataset
+- Compute resources for pilot phase
+
+### What We Don't Want:
+❌ Cash/Money/Wire transfers  
+❌ Equity investments  
+❌ Complex legal agreements
+
+### What We Do Want:
+✅ API key credits (Claude, Kimi, Google, OpenAI)  
+✅ Cloud infrastructure credits (AWS, GCP, Azure)  
+✅ Storage credits  
+✅ Direct service partnerships  
+✅ Technical mentorship
 
 ---
 
 ## 📧 Contact & Immediate Response
 
-**Primary Contact:** Ankit (jhajha135@gmail.com)
+**Primary Contact:** Ankit (jhajha135 [at] gmail [dot] com)
 
 **🤖 Automated Response System:**  
 **Bug Bug Bot** (Kimi K2.5) monitors this email address. When you send an email with:
-- **Subject:** "[FUNDING] Endangered Languages Project"
+- **Subject:** "[API CREDITS] Endangered Languages Project"
 - **Subject:** "[COLLABORATION] Language Preservation"
-- **Subject:** "[RESEARCH] Data Partnership"
+- **Subject:** "[INFRASTRUCTURE] Cloud Resources"
 
 **You will receive an immediate response** from Bug Bug Bot with:
-- Initial project information packet
-- Next steps for collaboration
-- Scheduling link for calls with Ankit
+- Specific API credit requirements
+- Integration instructions
+- Technical specifications for your platform
 
 **For Urgent Matters:**  
 Include "[URGENT]" in subject line for same-day human response.
@@ -133,7 +150,7 @@ Include "[URGENT]" in subject line for same-day human response.
 ## 🛠️ Technology Stack
 
 - **Languages:** Python, JavaScript, Go
-- **AI/ML:** Sarvam AI (Indian language NLP), OpenAI, Hugging Face
+- **AI/ML:** Sarvam AI (Indian language NLP), Kimi, Claude, OpenAI
 - **Audio Processing:** FFmpeg, PyDub, Whisper
 - **Data Storage:** SQLite, JSON, Cloud Object Storage
 - **Web:** React, Next.js, TailwindCSS
@@ -161,25 +178,39 @@ Include "[URGENT]" in subject line for same-day human response.
 
 ### For Organizations:
 - **Universities:** Research partnerships, student programs
-- **Tech Companies:** API integration, AI training data
+- **Tech Companies:** API credit donations, infrastructure support
+- **Cloud Providers:** AWS/GCP/Azure credits for storage & compute
+- **AI Companies:** Claude, Kimi, OpenAI API access for language processing
 - **NGOs:** Ground implementation, community outreach
-- **Government:** Policy support, official recognition
 
-### For Investors:
-This is a **high-impact, culturally significant** project with:
-- Clear social impact metrics
-- Scalable technology platform
-- Global relevance (UNESCO SDG alignment)
-- Multiple revenue pathways (licensing, data services)
+### For AI/ML Companies:
+This project provides:
+- **Real-world training data** for low-resource languages
+- **Diverse dataset** for model benchmarking
+- **Social impact story** for your AI ethics initiatives
+- **Research collaboration** opportunities
+
+**What we need from you:**
+- API credits (not cash)
+- Technical support for integration
+- Mentorship for responsible AI practices
 
 ---
 
-## 📜 License & Usage
+## 📜 License
 
-This project is **open-source** under MIT License.
+This project is **open-source** under [MIT License](LICENSE).
 
-**For Commercial Use:**  
-Contact jhajha135@gmail.com for licensing data, APIs, or partnership opportunities.
+You are free to:
+- Use the code
+- Modify it
+- Distribute it
+- Use it commercially
+
+Just include the original copyright notice.
+
+**For Commercial Data Use:**  
+Contact jhajha135 [at] gmail [dot] com for data licensing, API partnerships, or collaboration opportunities.
 
 ---
 
